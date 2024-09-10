@@ -50,6 +50,10 @@ I'm a french developper with experience with HTML (& CSS) , Python and C++ ( als
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google suite](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+    ![Shell](https://img.shields.io/badge/shell-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
 
 - **Operating systems used**:
 
