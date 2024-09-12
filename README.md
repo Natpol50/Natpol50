@@ -68,7 +68,7 @@ I'm a french developper with experience with HTML (& CSS) , Python and C++ ( als
 
 
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/512px-Circle-icons-mail.svg.png?20160314153722" width ="20" id="contact"><b> Let's Connect..!</b>
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/512px-Circle-icons-mail.svg.png?20160314153722" width ="20" id="contact"><b> Contact me !</b>
 <br>
 <div align='center'>
 <a href="https://discordapp.com/channels/@me/1151796352548880406/" target="_blank">
