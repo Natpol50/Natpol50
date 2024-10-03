@@ -59,8 +59,6 @@ I'm a french developper with experience with HTML (& CSS) , Python and C++ ( als
 - **Operating systems used**:
 
     ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-    ![Arch Linux](https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-    ![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 <br>
