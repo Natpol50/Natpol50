@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://asha-services.org/s/XSCFa2bQJ32mqtN/download/Banner_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="https://asha-services.org/s/gLcryTqMiAmfTYn/download/Banner_light.png">
-    <img alt="Bannière du projet" src="https://asha-services.org/s/gLcryTqMiAmfTYn/download/Banner_light.png">
+    <img alt="Asha waing at the user" src="https://asha-services.org/s/gLcryTqMiAmfTYn/download/Banner_light.png">
   </picture>
 </p>
 ---
@@ -30,7 +30,7 @@ I'm a french developper with experience with HTML (& CSS) , Python and C++ ( als
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-
+https://discord.c99.nl/widget/theme-1/1151796352548880406.png
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
