@@ -1,7 +1,6 @@
 <div id="header" align="center">
-        <img src="https://asha-services.org/s/XSCFa2bQJ32mqtN/download/Banner_dark.png"/></div>
-
-![Dark mode logo]([https://example.com/logo-dark.png](https://asha-services.org/s/XSCFa2bQJ32mqtN/download/Banner_dark.png)#gh-dark-mode-only)
+        <img src="https://asha-services.org/s/XSCFa2bQJ32mqtN/download/Banner_dark.png#gh-dark-mode-only"/></div>
+        <img src="https://asha-services.org/s/gLcryTqMiAmfTYn/download/Banner_light.png#gh-light-mode-only"/></div>
 ---
 
 <p align="center">
