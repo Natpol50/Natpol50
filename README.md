@@ -1,6 +1,7 @@
 <div id="header" align="center">
-        <img src="https://cdn.glitch.global/f250f932-9bf3-4789-856d-3d602dd165a4/IMG_3024.png?v=1726408663905"/></div>
-        
+        <img src="https://asha-services.org/s/XSCFa2bQJ32mqtN/download/Banner_dark.png"/></div>
+
+![Dark mode logo]([https://example.com/logo-dark.png](https://asha-services.org/s/XSCFa2bQJ32mqtN/download/Banner_dark.png)#gh-dark-mode-only)
 ---
 
 <p align="center">
