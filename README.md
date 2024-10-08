@@ -1,6 +1,10 @@
-<div id="header" align="center">
-        <img src="https://asha-services.org/s/XSCFa2bQJ32mqtN/download/Banner_dark.png#gh-dark-mode-only"/></div>
-        <img src="https://asha-services.org/s/gLcryTqMiAmfTYn/download/Banner_light.png#gh-light-mode-only"/></div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://asha-services.org/s/XSCFa2bQJ32mqtN/download/Banner_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://asha-services.org/s/gLcryTqMiAmfTYn/download/Banner_light.png">
+    <img alt="Bannière du projet" src="https://asha-services.org/s/gLcryTqMiAmfTYn/download/Banner_light.png">
+  </picture>
+</p>
 ---
 
 <p align="center">
