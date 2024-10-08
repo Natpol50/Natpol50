@@ -28,7 +28,7 @@ I'm a french developper with experience with HTML (& CSS) , Python and C++ ( als
 <a href="https://discordapp.com/channels/@me/1151796352548880406/" target="_blank"> <img src="https://discord.c99.nl/widget/theme-5/1151796352548880406.png" alt="pls,contact me">
 </p>
 
-<p align="center">
+<p align="center" href="https://discordapp.com/channels/@me/1151796352548880406/" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://discord.c99.nl/widget/theme-1/1151796352548880406.png">
     <source media="(prefers-color-scheme: light)" srcset="https://discord.c99.nl/widget/theme-5/1151796352548880406.png">
