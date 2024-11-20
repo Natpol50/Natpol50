@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://asha-services.org/s/XSCFa2bQJ32mqtN/download/Banner_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="https://asha-services.org/s/gLcryTqMiAmfTYn/download/Banner_light.png">
-    <img alt="Asha waing at the user" src="https://asha-services.org/s/gLcryTqMiAmfTYn/download/Banner_light.png">
+    <img alt="Asha is waving at the user" src="https://asha-services.org/s/gLcryTqMiAmfTYn/download/Banner_light.png">
   </picture>
 </p>
 ---
