@@ -76,9 +76,6 @@ I'm a french developper with experience with HTML (& CSS) , Python and C++ ( als
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natpol50&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/512px-Circle-icons-mail.svg.png?20160314153722" width ="20" id="contact"><b> Contact me !</b>
 <br>
 <div align='center'>
