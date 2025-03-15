@@ -30,7 +30,7 @@ I'm a french developper with experience with HTML (& CSS) , Python and C++ ( als
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://discord.c99.nl/widget/theme-1/1151796352548880406.png">
     <source media="(prefers-color-scheme: light)" srcset="https://discord.c99.nl/widget/theme-5/1151796352548880406.png">
-    <img alt="Asha waing at the user" src="https://discord.c99.nl/widget/theme-5/1151796352548880406.png">
+    <img alt="discord banner" src="https://discord.c99.nl/widget/theme-5/1151796352548880406.png">
   </picture>
   </a>
 </p>
