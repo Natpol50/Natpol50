@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cv.asha-services.org/img/Banner_dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://cv.asha-services.org/img/Banner_light.png">
-    <img alt="Asha is waving at the user" src="https://asha-services.org/s/gLcryTqMiAmfTYn/download/Banner_light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cv.asha-services.org/assets/img/Banner_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://cv.asha-services.org/assets/img/Banner_light.png">
+    <img alt="Asha is waving at the user" src="https://cv.asha-services.org/assets/img/Banner_light.png">
   </picture>
 </p>
 ---
