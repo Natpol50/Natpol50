@@ -13,7 +13,7 @@
 - Want to discover new things
 
 
-I'm a french developper with experience with HTML (& CSS) , Python and C++ ( also, a tad bit with JS, PHP, C# & Go) but i'm always open to learning new skills so i'll help on anything i can do ! I've got about 4~5 years of experience in creating websites and applications ( for most, theses are private, sorry about that ). You want help with something or you want somethign coded ? Please contact me via <a href="#contact">  below links! </a>
+I'm a french developper with experience with HTML (& CSS) , Python and C++ ( also, a tad bit with JS, PHP, C# & Go) but i'm always open to learning new skills so i'll help on anything i can do ! I've got about 6~7 years of experience in creating websites and applications ( for most, theses are private, sorry about that ). You want help with something or you want somethign coded ? Please contact me via <a href="#contact">  below links! </a>
 <br/>
 ( And for others, i can draw anthros from time to time )
 <br><br>
