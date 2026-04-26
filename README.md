@@ -10,7 +10,7 @@
 <p align="center"><em>French Developer | Systems & Networking Track | Fox Enthousiast</em></p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=2300&pause=900&color=0A9E2F&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=120&lines=Code+with+infrastructure+in+mind.;Learning+never+stops.;It's not if it breaks, it's when, so Build+resilient." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=2300&pause=900&color=0A9E2F&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=120&lines=Code+with+infrastructure+in+mind.;Learning+never+stops.;It%27s+not+if+it+breaks%2C+it%27s+when%2C+so+build+resilient." alt="Typing SVG" /></a>
 </p>
 
 ## 0x02 // SYSTEM_PROFILE
