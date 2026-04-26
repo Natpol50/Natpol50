@@ -1,23 +1,99 @@
 
----
+<a id="top"></a>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=2500&pause=1000&color=009A20&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=150&lines=Some+small+time+dev%2C;HTML%2C+CSS%2C+Python%2C+C%2B%2B;Ready+to+help." alt="Typing SVG" /></a>
+  <img src="./assets/top.png" width="100%" height="100"alt="Sharp corner accents"/>
 </p>
 
-# About me                           
 
-- The name's Asha (Natpol50)
-- 20 Y.O
-- French
-- Want to discover new things
+<h1 align="center">0x01 // ASHA GEYON</h1>
+<p align="center"><em>French Developer | Systems & Networking Track | Fox Enthousiast</em></p>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=2300&pause=900&color=0A9E2F&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=120&lines=Code+with+infrastructure+in+mind.;Learning+never+stops.;It's not if it breaks, it's when, so Build+resilient." alt="Typing SVG" /></a>
+</p>
 
-I'm a french developper with experience with HTML (& CSS) , Python and C++ ( also, a tad bit with JS, PHP, C# & Go) but i'm always open to learning new skills so i'll help on anything i can do ! I've got about 6~7 years of experience in creating websites and applications ( for most, theses are private, sorry about that ). You want help with something or you want something coded ? Please contact me via <a href="#contact">  below links! </a>
-<br/>
-( And for others, i can draw anthros from time to time )
+## 0x02 // SYSTEM_PROFILE
+Hi, I am Nathan Polette, also known as Asha Geyon (Natpol50). I am an IT engineering student passionate about development, systems, and networking, with a practical and problem-solving mindset. I enjoy building useful, clean, and maintainable projects while continuously learning in depth. Got a challenge or an idea? Let us build it.
+
+- Identity: Nathan Polette (Asha Geyon / Natpol50)
+- Status: 20 y/o, 3rd year IT engineering student
+- Location: France
+- Focus: system architecture, reliable software, resilient networking
+
+Developer with around 6-7 years of practice across websites and applications.
+I like understanding what happens under the surface: software, network, and hardware together.
+
+## 0x03 // TECH_STACK
+### [ LANGUAGES ]
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+### [ WEB & BACKEND ]
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Twig-BACF29?style=for-the-badge&logo=twig&logoColor=black" alt="Twig"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### [ TOOLING & WORKFLOW ]
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
+### [ DOCUMENTATION ]
+<p align="left">
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+  <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" alt="Mermaid"/>
+</p>
+
+## 0x04 // HARDWARE_INVENTORY
+
+| NODE_ID | CHASSIS / SPECS | ROLE / STATUS | OS |
+| :--- | :--- | :--- | :--- |
+| Main_Rig | 7800X3D • 6900XT • 32GB DDR5 | Workstation / Active | AtlasOS[win11] • CachyOS |
+| Home_Lab | 4x Intel NUC nodes | Virtualization Cluster / Online | Proxmox |
+| Net_Gateway | MikroTik hEX S | Edge Router / Active | RouterOS |
+| Retro_Art | Cooler Master WaveMaster / AMD Athlon 64 3200+ • GeForce FX 5700 Ultra 512 MB | Retro Tower / Unavailable (Dead CPU) | openSUSE • Windows XP Pro SP2 |
+| Legacy_01 | Dell Latitude E6400 | Mobile Legacy / Active | openSUSE • Windows XP Pro SP2 |
+| Mobile_Modern | Lenovo LOQ15 / Intel 13th Gen i5 • RTX 4050 | Mobile Workstation / Active | CachyOS • ReviOS[win11] |
+
+## 0x05 // PROJECTS_DIRECTORY
+To keep everything current without duplicate maintenance:
+
+- Portfolio / case studies: https://asha-services.org
+- Repositories: https://github.com/Natpol50?tab=repositories
+
+## 0x06 // CONTACT_GATE
+<div align="center" id="contact">
+
+| CHANNEL | ENDPOINT |
+| :--- | :--- |
+| Discord | natpol50 |
+| Email | asha.geyon@gmail.com |
+| Portfolio | https://cv.asha-services.org |
+
+<br>
+
+<a href="mailto:asha.geyon@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
 <br><br>
-
 
 <p align="center">
   <a href="https://discordapp.com/channels/@me/1151796352548880406/" target="_blank">
@@ -29,52 +105,10 @@ I'm a french developper with experience with HTML (& CSS) , Python and C++ ( als
   </a>
 </p>
 
+</div>
 
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <p align="center">
-
-- **Languages**:
-    
-
-    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-
-- **Databases (DBMSs to be precise)**:
-
-    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-- **Softwares and Tools**:
-    
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-    ![Shell](https://img.shields.io/badge/shell-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-
-
-- **Operating systems used**:
-
-    ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-
-<br>
+  <img src="./assets/bottom.png" width="100%" height="100" alt="Sharp corner accents"/>
 </p>
 
-
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/512px-Circle-icons-mail.svg.png?20160314153722" width ="20" id="contact"><b> Contact me !</b>
-<br>
-<div align='center'>
-<a href="https://discordapp.com/channels/@me/1151796352548880406/" target="_blank">
-<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt=Discord style="margin-bottom: 5px;"/></a>
-<a href="mailto:asha.geyon@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Email style="margin-bottom: 5px;"/></a>
-</div>
+[ 0x00 // BACK_TO_TOP ](#top)
