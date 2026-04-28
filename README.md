@@ -14,7 +14,7 @@
 </p>
 
 ## 0x02 // SYSTEM_PROFILE
-Hi, I am Nathan Polette, also known as Asha Geyon (Natpol50). I am an IT engineering student passionate about development, systems, and networking, with a practical and problem-solving mindset. I enjoy building useful, clean, and maintainable projects while continuously learning in depth. Got a challenge or an idea? Let us build it.
+Hi, I am Nathan Polette, also known as Asha Geyon (Natpol50). I am an IT engineering student passionate about development, systems, and networking, with a practical and problem-solving mindset. I enjoy building useful, clean, and maintainable projects while continuously learning in depth. Got a challenge or an idea? Let's build it.
 
 - Identity: Nathan Polette (Asha Geyon / Natpol50)
 - Status: 20 y/o, 3rd year IT engineering student
